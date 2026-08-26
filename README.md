@@ -2,6 +2,7 @@
 
 An end-to-end data pipeline built to practice real-world cloud data engineering: cleaning raw retail sales data, staging it in AWS S3, loading it into Snowflake, and visualizing it in Power BI.
 
+![Dashboard Screenshot](WALMART_ANALYSIS.png)
 
 ## Overview
 
@@ -94,6 +95,6 @@ The trickiest part of this project was debugging a cross-account IAM trust relat
 
 ## Files in This Repo
 
-- `dashboard.pbix` — Power BI dashboard file
-- `dashboard_screenshot.png` — dashboard preview
-- `walmart_sales_cleaned.csv` — cleaned dataset used for this project
+- `WALMART_ANALYSIS.pbix` — Power BI dashboard file
+- `WALMART_ANALYSIS.png` — dashboard preview
+- `WALMART_ANALYSIS.csv` — cleaned dataset used for this project
